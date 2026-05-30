@@ -34,7 +34,7 @@ The application is split into three main portals, each tailored with distinct ac
 
 ---
 
-## 🎯 Key Learning Outcomes & Concepts Used
+## 🎯 Key Learning Outcomes & Concepts Used.
 
 * **Object-Oriented Programming (OOP):** Implemented Inheritance, Encapsulation, and Polymorphism to structure clean, reusable code across different portals.
 * **Relational Database Design:** Designed a normalized schema containing tables for Users, Orders, Menu Items, and Deliveries with proper primary/foreign key relationships.
